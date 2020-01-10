@@ -1,0 +1,1 @@
+I was fetched from a text file.
